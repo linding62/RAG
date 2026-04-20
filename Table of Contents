@@ -1,0 +1,13 @@
+# Table of Contents
+1. Introduction
+2. Installing and Importing the Necessary Libraries
+3. Setting up the Gemini API key (Colab Secrets) and the client
+4. Retrieval-Augmented Generation (RAG) System: Corporate HR Policies Assistant
+  4.1. Problem Statement
+  4.2. Load PDFs
+  4.3. Chunking
+  4.4. Embedding
+  4.5. Storing in Chroma
+  4.6. Retrieval
+  4.7. LLM Answering
+5. Conclusion
