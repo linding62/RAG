@@ -1,6 +1,8 @@
 # 📘 Retrieval‑Augmented Generation (RAG) System  
 *A complete, end‑to‑end implementation using Gemini, LangChain, and ChromaDB*
 
+Google Colab implementation see link: https://colab.research.google.com/drive/1SOZqItbG5ivv4xiwIChAGukhbURkEMuY?usp=drive_link
+
 ---
 
 ## 🚀 Overview
@@ -146,7 +148,7 @@ You’ll:
 
 ---
 
-## 🔍 Building the Retriever
+## 🔍 Building the Retriever and RAG Answer 
 
 Covered in:
 
