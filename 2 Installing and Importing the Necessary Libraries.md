@@ -1,7 +1,7 @@
-Installing and Importing the Necessary Libraries
-
+# **2. Installing and Importing the Necessary Libraries**
 
 ---------------------------------------------------------------------------------------
+```python
 # Installing the necessary libraries with specified versions
 !pip install -q openai==1.66.3 \
                 tqdm==4.67.0 \
