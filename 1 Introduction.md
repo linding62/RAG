@@ -1,3 +1,5 @@
+# **1. Introduction**
+
 ## Organizations have unstructured knowledge, fragmented documents, or slow expert workflows. Retrieval-Augmented Generation (RAG) shines wherever people repeatedly ask questions whose answers already exist somewhere in your internal documents — but are hard to find.
 
 ## Here are some highest‑ROI use cases for RAG:
